@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Addon | trailing-stops + smart-contract-integration offers the most advanced Polymarket addon, with trailing-stops and smart-contract-integration. Ideal for
 
 
 
